@@ -2,6 +2,8 @@
 
 # Analog Clock Component  
 
+This is a plain Stencil app with a working analog clock in a little Ionic.
+
 # Stencil Component Starter
 
 This is a starter project for building a standalone Web Component using Stencil.
